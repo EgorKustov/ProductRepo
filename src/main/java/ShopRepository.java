@@ -1,4 +1,3 @@
-
 public class ShopRepository {
     private Product[] products = new Product[0];
 
